@@ -202,6 +202,7 @@ th {
   a,
   a:visited {
     text-decoration: underline;
+    background-color: red;
   }
   a[href]:after {
     content: " (" attr(href) ")";
@@ -3220,7 +3221,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-success.active,
 .open > .dropdown-toggle.btn-success {
   color: #fff;
-  background-color: #449d44;
+  background-color: blue;
   border-color: #398439;
 }
 .btn-success:active,
