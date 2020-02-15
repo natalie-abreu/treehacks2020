@@ -1,6 +1,6 @@
 header{
-	background-image: linear-gradient(#04519b, #044687 60%, #033769);
-	color:#fff;
+	/* background-image: linear-gradient(#FFA355, #FFE3C1 60%, #F7FAF0); */
+	background-color:#FFE3C1;
 	min-height: 100px;
 	padding-top: 25px;
 }
@@ -14,8 +14,9 @@ header .logo{
 }
 
 .panel-heading{
-    background-image: linear-gradient(#04519b, #044687 60%, #033769);
-    color: #fff !important;
+    /* background-image: linear-gradient(#04519b, #044687 60%, #033769); */
+		background-color:#FFE3C1;
+    /* color: #fff !important; */
 }
 
 .bubble{
@@ -134,12 +135,12 @@ header .logo{
 footer{
 	background: #f4f4f4;
 	height: 90px;
-	color: #04519b;
+	color: #FFE3C1;
 	font-weight: bold;
 	text-align: center;
 	padding-top: 40px;
 	margin-top: 30px;
-	border-top: 7px solid #04519b;
+	border-top: 7px solid #FFE3C1;
 }
 
 .members .member-row{
