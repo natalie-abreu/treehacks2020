@@ -17,8 +17,7 @@ router.get("/members", (req, res) => {
 });
 
 router.get("/resources", (req, res) => {
-  res.send("Resources will be here eventually");
-  // res.sendFile(path.join(dir + "/resouces.html"));
+  res.sendFile(path.join(dir + "/resources.html"));
 });
 
 module.exports = router;
