@@ -2592,6 +2592,10 @@ label {
 .checkbox{
   padding-top:10px;
 }
+.logo{
+  width: 150px;
+  padding-top:0px
+}
 input[type="search"] {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
