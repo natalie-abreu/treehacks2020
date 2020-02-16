@@ -20,4 +20,8 @@ router.get("/resources", (req, res) => {
   res.sendFile(path.join(dir + "/resources.html"));
 });
 
+router.get("/map", (req, res) => {
+  res.sendFile(path.join(dir + "/map.html"));
+});
+
 module.exports = router;
