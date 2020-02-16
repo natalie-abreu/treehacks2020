@@ -1,6 +1,6 @@
 header {
   /* background-image: linear-gradient(#FFA355, #FFE3C1 60%, #F7FAF0); */
-  background-color: #ffe3c1;
+  background-color: #FFA355;
   min-height: 100px;
   padding-top: 25px;
 }
@@ -15,7 +15,7 @@ header .logo {
 
 .panel-heading {
   /* background-image: linear-gradient(#04519b, #044687 60%, #033769); */
-  background-color: #ffe3c1;
+  background-color: #FFA355;
   /* color: #fff !important; */
 }
 
@@ -135,12 +135,12 @@ header .logo {
 footer {
   background: #f4f4f4;
   height: 90px;
-  color: #ffe3c1;
+  color: #FFA355;
   font-weight: bold;
   text-align: center;
   padding-top: 40px;
   margin-top: 30px;
-  border-top: 7px solid #ffe3c1;
+  border-top: 7px solid #FFA355;
 }
 
 .members .member-row {
